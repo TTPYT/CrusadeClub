@@ -1,0 +1,39 @@
+{
+  "name": "Boneless Water",
+  "version": "1.0.0",
+  "description": "Bot Created by m1T#7219",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "8.4.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Idiots-Guide/guidebot.git"
+  },
+  "author": "AndyIsCool5463",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An-Idiots-Guide/guidebot/issues"
+  },
+  "homepage": "https://glitch.com",
+  "dependencies": {
+    "bufferutil": "^3.0.5",
+    "discord": "^0.8.2",
+    "discord.js": "^11.3.2",
+    "enmap": "^2.6.1",
+    "erlpack": "^0.1.2",
+    "express": "^4.16.3",
+    "ffmpeg": "^0.0.4",
+    "libsodium-wrappers": "^0.7.3",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "opusscript": "^0.0.6",
+    "simple-youtube-api": "^5.0.2",
+    "sodium": "^2.0.3",
+    "ytdl-core": "^0.20.4"
+  }
+}
